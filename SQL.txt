@@ -1,0 +1,14 @@
+SQL 
+Lenguaje de Consulta Comercial que proporciona
+una interfaz amigable al usuario. 
+
+DDL: Lenguaje de definición de datos: CREATE,ALTER,DROP,RENAME,TRUNCATE.
+DML: Lenguaje de Manipulación de datos: INSERT,UPDATE,DELETE.
+DCL: Lenguaje de control de datos: GRANT, REVOKE.
+
+Una base de datos relacional es un conjunto de tablas de 2 dimensiones. 
+
+Cada renglón debe de estar identificado por una llave primaria (PK)
+Las tablas se relacionan por medio de una llave foranea. (FK)
+
+

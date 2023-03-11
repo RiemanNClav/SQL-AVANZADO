@@ -1,0 +1,47 @@
+DIAGRAMA DE PESCADO 
+Diagrama que nos dice, 'Investiga, Recopila y traduce después eso un diagrama,
+que el usuario entienda, 'No importa lo controlado de un proceso, siempre 
+presenta incoformidades'. 
+
+DIAGRAMA DE ISHIKAWA 
+* Herramienta que permite estructurar de una manera logica y sistematica, las 
+causas del problema que se pretende resolver, utiliza la espina de un pescado. 
+* Se usa para mostrar y ordenar graficamente todo el conocimiento que un grupo
+tiene de un problema en particular. 
+* Se basa en el principio causa-efecto, toda una acción tiene una reacción.
+* Su principal función es ayudar en los análisis de organización. La mayoría de las veces se lo emplea
+ para encontrar la causa de un problema en su raíz. 
+
+Pasos para elaborar un diagrama:
+1. Defina el problema a estudiar.
+2. Determine todas las posibles causas que influyen sobre el efecto.
+3. Organice y agrupe los resultados por categorías. 
+4. Construir el diagrama. 
+   a) Dibujar flecha apuntando al efecto. 
+   b) Espinas principales, escribir las categorías de las causas. 
+   c) Espinas menores asigne las causas. 
+5. Analizar la relación causa-efecto. 
+
+Las 5-emes 
+Sistema de analisis estructurado que se basa en cinco categorias alrededor 
+de los cuales giran las posibles causas de un problema. 
+Maquinas, Metodos y Procedimientos, Mano de Obra
+
+DIAGRAMA DE PARETO
+Representación grafica de los datos sobre un problema, permite identificar los 
+aspectos prioritarios que hay que atender. 
+Se basa en el principio de pareto, son pocas causas 20% las que generan la mayor 
+cantidad de problemas 80%.
+
+TIPOS DE DIAGRAMAS DE PARETO
+1. Diagrama de fenomenos
+Permite determinar cual es el principal problema que origina el efecto no deseado
+2. Diagramas de Causas 
+Una vez encontrados los problemas, se utiliza para descubrir cuales son las causas 
+mas relevantes que los producen.
+
+
+
+
+
+
